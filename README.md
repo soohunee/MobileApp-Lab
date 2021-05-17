@@ -15,3 +15,4 @@
 |Assignment9|Flutter Listview|Changing listview using text inputs|
 |Assignment10|Flutter Navigator|Direct/Static/Dynamic navigation & Provider with ChangeNotifier|
 |Assignment11|Flutter API|Using API & display realtime subway arrival information|
+|Assignment12|Flutter Platform Channel|Native services(BatteryLevel, Accelerometer, ...|
